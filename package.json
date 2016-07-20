@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parse-server-modules/parse-server-onesignal-push-adapter.git"
+    "url": "git+https://github.com/mgonzalezDID/PushyPushAdapter.git"
   },
   "author": "Parse",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "parse-server-push-adapter": "^1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/parse-server-modules/parse-server-onesignal-push-adapter/issues"
+    "url": "https://github.com/mgonzalezDID/PushyPushAdapter.git/issues"
   },
-  "homepage": "https://github.com/parse-server-modules/parse-server-onesignal-push-adapter#readme"
+  "homepage": "https://github.com/mgonzalezDID/PushyPushAdapter.git#readme"
 }
