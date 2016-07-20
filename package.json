@@ -7,9 +7,6 @@
     "lib/"
   ],
   "scripts": {
-    "babel-version": "babel --version",
-    "build": "babel src/ -d lib/",
-    "prepublish": "npm run build"
   },
   "keywords": [
     "parse-server",
