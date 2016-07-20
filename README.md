@@ -4,6 +4,7 @@
 [![codecov.io](https://codecov.io/github/parse-server-modules/parse-server-onesignal-push-adapter/coverage.svg?branch=master)](https://codecov.io/github/parse-server-modules/parse-server-onesignal-push-adapter?branch=master)
 
 
+
 OneSignal push adapter for parse-server
 
 
