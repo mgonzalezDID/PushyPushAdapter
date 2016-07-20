@@ -1,6 +1,6 @@
 {
   "name": "parse-pushyadapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pushy push adapter for parse-server",
   "main": "lib/index.js",
   "files": [
